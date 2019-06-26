@@ -9,3 +9,6 @@ dependency-reduced-pom.xml
 *.sw*
 metastore_db
 *.log
+/bin/
+/.settings/
+/.project
