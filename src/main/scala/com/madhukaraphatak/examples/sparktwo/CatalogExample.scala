@@ -6,6 +6,7 @@ import org.apache.spark.sql.SparkSession
 /**
   * Catalogue Example
   */
+// TEST COMMENT
 object CatalogExample {
 
   def main(args: Array[String]) {
