@@ -7,6 +7,7 @@ import org.apache.spark.sql.SparkSession
   * Catalogue Example
   */
 // TEST COMMENT - branch comment
+// change1: addtional comment added in branch
 object CatalogExample {
 
   def main(args: Array[String]) {
